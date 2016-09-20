@@ -37,7 +37,8 @@ body {
     height: 100%;
     font-family: 'Poppins', sans-serif;
     line-height: 1.8;
-    color: #999
+    color: #999;
+     cursor:url(https://i.sli.mg/VAKOcN.png),url(myBall.cur),auto;
 }
 
 .no-padding {
