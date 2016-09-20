@@ -38,9 +38,7 @@ body {
     font-family: 'Poppins', sans-serif;
     line-height: 1.8;
     color: #999;
-}
-div {
-    cursor:url(https://storage.googleapis.com/bloxcity-file-storage/57af91c9955a7.png),url(myBall.cur),auto;
+    cursor:url(https://storage.googleapis.com/bloxcity-file-storage/57af91c9955a7.png),auto;
 }
 .no-padding {
     padding-left: 0;
