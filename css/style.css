@@ -38,9 +38,10 @@ body {
     font-family: 'Poppins', sans-serif;
     line-height: 1.8;
     color: #999;
-     cursor:url(https://i.sli.mg/VAKOcN.png),url(myBall.cur),auto;
 }
-
+div {
+    cursor:url(https://storage.googleapis.com/bloxcity-file-storage/57af91c9955a7.png),url(myBall.cur),auto;
+}
 .no-padding {
     padding-left: 0;
     padding-right: 0;
